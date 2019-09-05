@@ -1,0 +1,11 @@
+F:\hagmandb\hagmandb\bin\Debug\hangmandbs.accdb
+F:\hagmandb\hagmandb\bin\Debug\hagmandb.exe.config
+F:\hagmandb\hagmandb\bin\Debug\hagmandb.exe
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.csprojAssemblyReference.cache
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.mainform.resources
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.postwinforms.resources
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.Properties.Resources.resources
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.csproj.GenerateResource.cache
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.csproj.CoreCompileInputs.cache
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.exe
+F:\hagmandb\hagmandb\obj\Debug\hagmandb.pdb
